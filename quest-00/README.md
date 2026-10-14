@@ -17,11 +17,7 @@ To check your Python version, run:
 
 ## Installation
 
-There is nothing to install. Get the newest quests into your fork
-(see "Before each class" in the README at the top of this repository),
-and move into this folder:
-
-    cd quest-00
+There is nothing to install.
 
 ## Usage
 
