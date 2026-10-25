@@ -44,16 +44,16 @@ Bring them into your fork:
        FLAG{xxxxxxxxxx}
 
 4. Submit the flag in **Guild HQ** with the **Submit a Flag** form:
-   https://github.com/OWNER/guild-hq/issues/new/choose
+   https://github.com/kwaka1208/guild-hq/issues/new/choose
 
 Your flag is made from your GitHub ID, so it works only for you.
 
 ## Contributing
 
-- Found a problem? [Open an issue](https://github.com/OWNER/guild-quests/issues/new/choose).
+- Found a problem? [Open an issue](https://github.com/kwaka1208/guild-quests/issues/new/choose).
 - Want to fix it yourself? Read [CONTRIBUTING.md](CONTRIBUTING.md).
 - Looking for something to work on? See issues labeled
-  [`good first issue`](https://github.com/OWNER/guild-quests/labels/good%20first%20issue).
+  [`good first issue`](https://github.com/kwaka1208/guild-quests/labels/good%20first%20issue).
 
 Every merged pull request earns points on the leaderboard.
 
