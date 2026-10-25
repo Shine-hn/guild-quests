@@ -1,0 +1,22 @@
+{
+  "title": "Quest 2: The Kind Error",
+  "stages": [
+    {
+      "question": "Rewrite the three rude messages in messages.json (Part 1). Then run `python check.py --part 1`. What word did the checker give you?",
+      "answer_sha256": "2b4b2eadf7b2aece598d2f2ad4637361614a738a7cdf1a457d8b46db072184d5"
+    },
+    {
+      "question": "Make the three messages helpful (Part 2). Then run `python check.py --part 2`. What word did the checker give you?",
+      "answer_sha256": "d1068beeb96a6a79937661d5cc9f290dddaa5730e64b7ab2b238078a1194c614"
+    },
+    {
+      "question": "Write the three empty messages (Part 3). Then run `python check.py --part 3`. What word did the checker give you?",
+      "answer_sha256": "280d44ab1e9f79b5cce2dd4f58f5fe91f0fbacdac9f7447dffc318ceb79f2d02"
+    },
+    {
+      "question": "Add kind error messages to your team's game (Part 4). Then run `python check.py --part 4 YOUR-ID/YOUR-GAME`. What word did the checker give you?",
+      "answer_sha256": "2dd91040a484f1799803ffbbf3307a446022883396f959c3ac12cfe390bff0fd"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/guild-hq/issues/new/choose"
+}
