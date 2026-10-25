@@ -1,0 +1,10 @@
+{
+  "name": "Old Grey",
+  "maker": "Bram the smith",
+  "weight": 120,
+  "tools": [
+    "tongs",
+    "hammer"
+  ]
+  "polished": false
+}

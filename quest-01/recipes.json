@@ -1,0 +1,10 @@
+{
+  "hammer": {
+    "materials": {
+      "iron": 2,
+      "wood": 1,
+      "mithril": 1
+    },
+    "result": "starhammer"
+  }
+}

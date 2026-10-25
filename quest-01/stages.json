@@ -1,0 +1,26 @@
+{
+  "title": "Quest 1: The Broken Forge",
+  "stages": [
+    {
+      "question": "Run `python forge.py`. The forge stops with an error. What is the name of the error? (Example answer: ValueError)",
+      "answer_sha256": "b1a812dda513c88746677b78bcd18cc90e476abf3cad03443b045ee9303aa522"
+    },
+    {
+      "question": "Which material is missing from the storehouse?",
+      "answer_sha256": "3311063c3d681e3bb048ea56a5130a820bf6ddc606140ca2f2e3c692cdd61bbb"
+    },
+    {
+      "question": "Fix the storehouse and run the forge again. A JSON file is broken. The error message shows a line number, but the real mistake is on a different line. Fix it. Which line had the real mistake? (Answer with a number only.)",
+      "answer_sha256": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    },
+    {
+      "question": "Fix the problems and run `python forge.py` again until it works. What did the forge make?",
+      "answer_sha256": "0e2f8b5359a77e6d3d970ac035d20f591a340ce10ce33c7964aaf684728c6631"
+    },
+    {
+      "question": "The forge's ledger has a problem, too. Run `python ledger.py --setup`, and fix the ledger with git. Then run `python ledger.py`. What is the secret word?",
+      "answer_sha256": "2be663431f0072506a04499c2ac99c3232e7adbe3fc679c139a0609aace61bf7"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/guild-hq/issues/new/choose"
+}
