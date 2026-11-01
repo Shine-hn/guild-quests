@@ -1,0 +1,22 @@
+{
+  "title": "Quest 3: The Silent Oracle",
+  "stages": [
+    {
+      "question": "Run `python oracle.py`. The Oracle shows an error. Read its help. If you do not choose a voice, which voice does the Oracle use?",
+      "answer_sha256": "6200f53485b683973d0c8cb0da433414326ca268363546ece184689555b06568"
+    },
+    {
+      "question": "Ask the Oracle a question, and call it in the right way. What word does the Oracle say?",
+      "answer_sha256": "092c79e8f80e559e404bcf660c48f3522b67aba9ff1484b0367e1a4ddef7431d"
+    },
+    {
+      "question": "The Oracle has a deeper voice. Find out how to hear it, and run `python oracle.py listen`. What word do you hear?",
+      "answer_sha256": "32a856b02e332d5af28faeaa2fdbcee3f06f1845481bc5fb5e0585e4456fbf80"
+    },
+    {
+      "question": "Run `python archive.py --setup`. In the archive, find the prophecy about the moon that Bram wrote. What word is in it?",
+      "answer_sha256": "4ea402528e0fa6dc7a2f30894e300cab3204e90573b34d0488e90bb2416662ac"
+    }
+  ],
+  "submit_url": "https://github.com/kwaka1208/guild-hq/issues/new/choose"
+}
